@@ -12,6 +12,8 @@ http://www.templatemo.com/tm-515-eatery
     background: #ffffff;
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
+    margin: 0 auto;
+    max-width: 100%;
   }
 
 
@@ -555,7 +557,7 @@ http://www.templatemo.com/tm-515-eatery
   -----------------------------------------*/
 
   #menu {
-    
+    width: 100%;
   }
 
   #menu .container {
