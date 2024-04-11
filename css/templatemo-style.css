@@ -753,8 +753,8 @@ http://www.templatemo.com/tm-515-eatery
     color: #ffffff;
   }
 
-  #contact{
-    background-color: #353535;
+  .contact-background{
+    background-color: #f9f9f9;
   }
 
 
